@@ -1,0 +1,9 @@
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\bin\Debug\ФРОГГЕР.exe.config
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\bin\Debug\ФРОГГЕР.exe
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\bin\Debug\ФРОГГЕР.pdb
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\obj\Debug\ФРОГГЕР.csprojAssemblyReference.cache
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\obj\Debug\ФРОГГЕР.Form1.resources
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\obj\Debug\ФРОГГЕР.Properties.Resources.resources
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\obj\Debug\ФРОГГЕР.csproj.GenerateResource.cache
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\obj\Debug\ФРОГГЕР.exe
+C:\Users\lukav\source\repos\ФРОГГЕР\ФРОГГЕР\obj\Debug\ФРОГГЕР.pdb
